@@ -11,4 +11,4 @@ DataTable.pdf: table containing information on SALSA datasets used in this
 
 figures/fig*.pdf: vector graphics of figures incuded in the poster
 
-SuppFigures/\*.pdf: supplemental figures. See figures.md for details
+SupplementalFigures/\*.pdf: supplemental figures. See SupplementalFigures/README.md for details
