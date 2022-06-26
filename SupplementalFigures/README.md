@@ -5,3 +5,5 @@ CO_epoch.pdf: an epoch analysis of the excess CO density surrounding the pore, s
 CO_response.png: response functions for the infrared CO spectrum in several atmospheres inferred from ALMA 1.25 mm brightness temperatures and Mg II k spectra. In ChAH's (middle and bottom rows), the CO lines have sensitivity to the cool chromospheric plasma (reproduced from da Silva Santos et al., 2020). 
 
 cool_loops.png: millimeter formation height in a BIFROST MHD simulation under LTE (left) and non-equilibrium ionization (right) assumptions. Note the cool, electron-dense loops in the right panels representing Case 1 for ChAH formation (reproduced from Martínez-Sykora et al., 2020).
+
+mm_response.png: response functions for the millimeter continuum in atmospheres inverted from spectroscopic data and Band 6 (1.25) mm brightness temperatures.  Note that the atmospheres with the coolest Band 6 temperatures show mm emission from the temperature minimum rather than the chromosphere, representing Case 3 for ChAH formation (reproduced from Hofmann et al., 2022). 
