@@ -1,5 +1,7 @@
 acoustic_flux.png: maps of acoustic flux inferred from Band 3 (3mm) and Band 6 (1.25 mm) intensity fluctuations. Note the correspondence between areas of low acoustic flux and ChAH's in Band 6 (reproduced from Molnar et al., 2021).
 
+ChAH_lifetime.pdf: maps of a ChAH observed at 1.25 mm (top left) and 3 mm (bottom left) on 4/22/2017. Plots of the minimum temperature in the ChAH at each wavelength demonstrates that the low temperatures seen in these regions are long-lived.
+
 CO_absorption.mp4: movie of the line core intensity of the IR spectrum of carbon monoxide, along with other photospheric and chromospheric dignostics. Note the appearance of long-lived, dark features at the boundary of the pore (using data from Stauffer et al., 2022).
 
 CO_epoch.pdf: an epoch analysis of the excess CO density surrounding the pore, showing the features to be long-lived (reproduced from Stauffer et al., 2022).
